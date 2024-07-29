@@ -87,7 +87,7 @@ console.log("¿El producto está vencido?:", estaVencido ? "Sí" : "No");
 console.log("Nombre del Producto:", pan.name);
 console.log("Precio:", pan.getPrice());
 console.log("Fecha de Caducidad:", pan.fechaCaducidad); 
-
+console.log("vino otra persona y le metio este cambio");
   }
   main();
   
